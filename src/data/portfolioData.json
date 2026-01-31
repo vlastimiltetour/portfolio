@@ -1,0 +1,96 @@
+{
+  "personalInfo": {
+    "name": "Vlastimil Tetour",
+    "title": "Python Developer & Analyst",
+    "phone": "+420 773 696 087",
+    "email": "v.tetour@gmail.com",
+    "location": "Prague, CZ",
+    "github": "https://github.com/vlastimiltetour",
+    "linkedin": "https://www.linkedin.com/in/vlastimiltetour/",
+    "avatar": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fdfca8cd-d140-4fbc-8c17-82c48c06ba2e/Untitled.png"
+  },
+  "profile": {
+    "description": "I sit at the crossroads of software engineering and analytics—building features with precision and clarity. My superpowers: blending a foundation in statistics, a background in communication (psychology), and carefully built technical acumen to craft workflows, code, and communication that remain clear and sharp, and that keep stakeholders excited. Professionally or in gaming, I consider myself a completionist.",
+    "highlights": [
+      "Communication & Collaboration – clear, empathetic, and reliable",
+      "Organization & Structure – highly systematic in both solo and team projects (Conscientiousness: 96th percentile, Self-Discipline: 96th percentile!)",
+      "Drive & Growth Mindset – motivated, self-directed, and quick to learn"
+    ]
+  },
+  "projects": [
+    {
+      "name": "Stockisimo",
+      "description": "Fullfillment software by STOCKED, specialized WMS solution for medium and large logistics centers. Contributed to features and minor code tweaks.",
+      "stack": ["Django", "Python"],
+      "link": "https://www.stocked.cz/cs-cz/systemy/stockisimo/",
+      "image": "attachment:0ab25fba-f775-4976-98b7-3aa9b51fbc15:Screenshot_2025-09-22_at_8.34.18.png"
+    },
+    {
+      "name": "Efir The Brand",
+      "description": "Customer-facing e-commerce site selling lingerie, complete backend & frontend ownership, multiple integrations including shipping, payments, and analytics.",
+      "stack": ["Django", "React", "Docker", "DigitalOcean"],
+      "link": "https://www.efirthebrand.cz/",
+      "github": "https://github.com/vlastimiltetour/etb",
+      "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/4ad2c942-3d84-4bac-8f58-e1edb81775b6/d53fa0b3-91fc-45c8-96f0-4e24114dedd5/Snimek_obrazovky_2024-05-19_v_14.07.58.png",
+      "integrations": ["Zasilkovna", "PPL", "Stripe", "Google Analytics", "Leadhub"]
+    },
+    {
+      "name": "Scorecard Analysis",
+      "stack": ["Data Science"],
+      "github": "https://github.com/vlastimiltetour/automated_cabin_scraping"
+    },
+    {
+      "name": "Real Estate ETL",
+      "stack": ["Data Engineering", "Flask", "JS", "Pythonanywhere"],
+      "github": "https://github.com/vlastimiltetour/web_app_job_search_scraping.git"
+    },
+    {
+      "name": "Content-Based Product Recommender",
+      "stack": ["ML", "Python", "scikit-learn", "pandas", "ETtree", "Pyplot"],
+      "github": "https://github.com/vlastimiltetour/content_based_recommender",
+      "workflow": [
+        "Data Collection",
+        "Data Preparation",
+        "Feature Extraction",
+        "Similarity Calculation",
+        "Clustering",
+        "Recommendation System"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "role": "Python Developer",
+      "company": "Stocked",
+      "period": "2024-NOW",
+      "description": "Building features for a fullfillment software Stockisimo.",
+      "stack": ["Django", "Docker", "Sentry"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MSc., Psychology",
+      "school": "Charles University",
+      "period": "2014-2019"
+    }
+  ],
+  "courses": [
+    { "name": "Bee IT Python Course", "year": 2022 },
+    { "name": "Meta Back-End Developer Professional Certificate", "year": 2025, "link": "https://www.coursera.org/professional-certificates/meta-back-end-developer" },
+    { "name": "DeepLearning.AI Data Engineering", "year": 2025, "link": "https://www.coursera.org/professional-certificates/data-engineering" }
+  ],
+  "knowledge": [
+    "Grokking Algorithms by Aditya Y. Bhargava",
+    "Python 3 Object-Oriented Programming Dusty Phillips",
+    "Django 4 By Example - Fourth Edition",
+    "Automate the Boring Stuff with Python",
+    "Intenzivní kurz Pythonu, datové analýzy a umělé inteligence",
+    "https://github.com/vlastimiltetour/favorite_katas",
+    "https://github.com/vlastimiltetour/algorithms"
+  ],
+  "skills": [
+    "Python 3.9","Django","Flask","PostgreSQL","REST API","Git","Pandas","Numpy","Scikit-learn","Matplotlib",
+    "Joblib","Requests","Boto3","Oauthlib","Docker","DigitalOcean","AWS Lightsail","Flake8","Pytest","Black","Isort","Jinja2"
+  ],
+  "compensation": "Ready to discuss full-time opportunities, both business license or employee contract."
+}
